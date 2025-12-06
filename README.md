@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .LAT one-word domains still available to buy.
 
-This dataset contains 4,152 .LAT one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,158 .LAT one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.LAT one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=lat-oneword-domains&utm_content=description.top) (4,151) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.LAT one word domains]
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/lat-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/lat-oneword-domains/blob/main/lat.csv"><b>⬇️ CSV (4.15K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/lat-oneword-domains/blob/main/lat.json"><b>⬇️ JSON (4.15K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/lat-oneword-domains/blob/main/lat.csv"><b>⬇️ CSV (4.16K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/lat-oneword-domains/blob/main/lat.json"><b>⬇️ JSON (4.16K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=lat-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.15K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -22,7 +22,7 @@ If you want to search & filters the complete database of [.LAT one word domains]
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created          | Expires          |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ---------------- | ---------------- |
 | aaa.lat        | resell    | 70       | 38%    | 3      | Namecheap | 13/04/2021 22:15 | 13/04/2026 23:59 |
-| aaron.lat      | available | 88       | 32%    | 5      |           |                  |                  |
+| aaron.lat      | premium   | 88       | 32%    | 5      |           |                  |                  |
 | abactinal.lat  | available | 50       | 1%     | 9      |           |                  |                  |
 | abaft.lat      | available | 43       | 2%     | 5      |           |                  |                  |
 | abandoned.lat  | available | 58       | 7%     | 9      |           |                  |                  |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.LAT one word domains]
 | abatic.lat     | available | 54       | 2%     | 6      |           |                  |                  |
 | abaxial.lat    | available | 54       | 2%     | 7      |           |                  |                  |
 | abbatial.lat   | available | 50       | 1%     | 8      |           |                  |                  |
-| abc.lat        | available | 102      | 41%    | 3      |           |                  |                  |
+| abc.lat        | premium   | 102      | 41%    | 3      |           |                  |                  |
 | abdicable.lat  | available | 50       | 1%     | 9      |           |                  |                  |
 | abdominal.lat  | available | 82       | 5%     | 9      |           |                  |                  |
 | abdominous.lat | available | 56       | 1%     | 10     |           |                  |                  |
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.LAT one word domains]
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/lat-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/lat-oneword-domains/blob/main/lat.csv"><b>⬇️ CSV (4.15K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/lat-oneword-domains/blob/main/lat.json"><b>⬇️ JSON (4.15K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/lat-oneword-domains/blob/main/lat.csv"><b>⬇️ CSV (4.16K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/lat-oneword-domains/blob/main/lat.json"><b>⬇️ JSON (4.16K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=lat-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (4.15K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
