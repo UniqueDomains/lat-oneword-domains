@@ -72,17 +72,17 @@ print(df.head())
 | alpha.lat      | premium   | $2,500    | $2,500        | 90             | 53     | 5      | name.com        |
 | athletics.lat  | available | $40.98    | —             | 69             | 52     | 9      | namecheap       |
 | property.lat   | resell    | —         | —             | 90             | 99     | 8      | Spaceship, Inc. |
-| design.lat     | premium   | $812.50   | $812.50       | 108            | 50     | 6      | name.com        |
+| abc.lat        | premium   | $2,600    | $2,600        | 102            | 50     | 3      | namecheap       |
 | wizard.lat     | available | $1.99     | $41.99        | 118            | 43     | 6      | name.com        |
 | love.lat       | resell    | —         | —             | 86             | 99     | 4      | Spaceship, Inc. |
-| abc.lat        | premium   | $2,600    | $2,600        | 102            | 50     | 3      | namecheap       |
+| simple.lat     | premium   | $812.50   | $812.50       | 128            | 49     | 6      | name.com        |
 | dark.lat       | available | $1.99     | $41.99        | 52             | 40     | 4      | name.com        |
 | capital.lat    | resell    | —         | —             | 92             | 98     | 7      | Dynadot LLC     |
-| digital.lat    | premium   | $2,500    | $2,500        | 100            | 50     | 7      | name.com        |
+| design.lat     | premium   | $812.50   | $812.50       | 108            | 49     | 6      | name.com        |
 | custom.lat     | available | $1.99     | $41.99        | 110            | 39     | 6      | name.com        |
 | bright.lat     | resell    | —         | —             | 74             | 98     | 6      | Spaceship, Inc. |
-| security.lat   | premium   | $2,600    | $2,600        | 70             | 49     | 8      | namecheap       |
-| shared.lat     | available | $1.99     | $41.99        | 70             | 39     | 6      | name.com        |
+| digital.lat    | premium   | $2,500    | $2,500        | 100            | 49     | 7      | name.com        |
+| cozy.lat       | available | $1.99     | $41.99        | 110            | 37     | 4      | name.com        |
 | loop.lat       | resell    | —         | —             | 72             | 77     | 4      | Go Daddy, LLC   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
