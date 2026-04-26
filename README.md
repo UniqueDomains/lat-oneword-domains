@@ -1,22 +1,22 @@
-# Available .LAT One-Word Domains (8,451)
+# Available .LAT One-Word Domains (10,774)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C452%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C451%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C774%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .lat one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .lat one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,774 domains** on the canonical page below.
 
-**Public extract:** 8,452 rows · **Live catalog:** 8,451 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,774 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/lat`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .LAT one-word domain c
 
 ### Files
 
-- `lat.csv` — public CSV extract (8,452 rows)
-- `lat.json` — public JSON extract (8,452 rows)
+- `lat.csv` — public CSV extract (1,000 rows)
+- `lat.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| lens.lat       | available | $1.99     | —             | 62             | 69     | 4      | name.com        |
-| eight.lat      | resell    | $1.99     | $41.99        | 102            | 24     | 5      | Go Daddy, LLC   |
-| nationwide.lat | premium   | $2,500    | $2,500        | 76             | 66     | 10     | name.com        |
-| seventeen.lat  | available | $1.99     | $41.99        | 84             | 62     | 9      | name.com        |
-| gay.lat        | resell    | —         | —             | 122            | 99     | 3      | Dynadot LLC     |
-| alpha.lat      | premium   | $2,500    | $2,500        | 90             | 53     | 5      | name.com        |
-| athletics.lat  | available | $40.98    | —             | 69             | 52     | 9      | namecheap       |
-| property.lat   | resell    | —         | —             | 90             | 99     | 8      | Spaceship, Inc. |
-| abc.lat        | premium   | $2,600    | $2,600        | 102            | 50     | 3      | namecheap       |
-| wizard.lat     | available | $1.99     | $41.99        | 118            | 43     | 6      | name.com        |
-| love.lat       | resell    | —         | —             | 86             | 99     | 4      | Spaceship, Inc. |
-| simple.lat     | premium   | $812.50   | $812.50       | 128            | 49     | 6      | name.com        |
-| dark.lat       | available | $1.99     | $41.99        | 52             | 40     | 4      | name.com        |
-| capital.lat    | resell    | —         | —             | 92             | 98     | 7      | Dynadot LLC     |
-| design.lat     | premium   | $812.50   | $812.50       | 108            | 49     | 6      | name.com        |
-| custom.lat     | available | $1.99     | $41.99        | 110            | 39     | 6      | name.com        |
-| bright.lat     | resell    | —         | —             | 74             | 98     | 6      | Spaceship, Inc. |
-| digital.lat    | premium   | $2,500    | $2,500        | 100            | 49     | 7      | name.com        |
-| cozy.lat       | available | $1.99     | $41.99        | 110            | 37     | 4      | name.com        |
-| loop.lat       | resell    | —         | —             | 72             | 77     | 4      | Go Daddy, LLC   |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| justin.lat       | available | $1.99     | —             | 58             | 38     | 7      | name.com        |
+| joy.lat          | resell    | —         | —             | 78             | 42     | 3      | Spaceship, Inc. |
+| nets.lat         | premium   | $2,500    | —             | 54             | 81     | 4      | name.com        |
+| etc.lat          | available | $1.99     | —             | 58             | 34     | 3      | name.com        |
+| Tools.lat        | resell    | —         | —             | 56             | 40     | 5      | Spaceship, Inc. |
+| travelers.lat    | premium   | $2,500    | —             | 58             | 61     | 9      | name.com        |
+| popup.lat        | available | $1.99     | —             | 84             | 29     | 6      | name.com        |
+| urban.lat        | resell    | —         | —             | 68             | 36     | 5      | Spaceship, Inc. |
+| comics.lat       | premium   | $2,500    | —             | 68             | 24     | 6      | name.com        |
+| heroes.lat       | available | $1.99     | —             | 68             | 29     | 6      | name.com        |
+| profile.lat      | resell    | —         | —             | 76             | 32     | 7      | Go Daddy, LLC   |
+| holidays.lat     | premium   | $2,500    | —             | 78             | 23     | 8      | name.com        |
+| commonground.lat | available | $1.99     | —             | 74             | 28     | 13     | name.com        |
+| she.lat          | resell    | —         | —             | 86             | 29     | 3      | Go Daddy, LLC   |
+| signs.lat        | premium   | $2,500    | —             | 64             | 22     | 5      | name.com        |
+| bricks.lat       | available | $1.99     | —             | 56             | 28     | 6      | name.com        |
+| luck.lat         | resell    | —         | —             | 78             | 29     | 4      | Spaceship, Inc. |
+| travels.lat      | premium   | $437.08   | —             | 64             | 18     | 7      | Dynadot LLC     |
+| backyard.lat     | available | $1.99     | —             | 80             | 27     | 9      | name.com        |
+| passion.lat      | resell    | —         | —             | 74             | 29     | 7      | Go Daddy, LLC   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,452-row public sample | 8,451 live domains                               |
+| 1,000-row public sample | 10,774 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAT One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
