@@ -923,6 +923,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 52f1d910-2663-4d62-9ae6-86a9529384e6,inblossom.lat,available,1.99,,56,1,10,name.com,,
 5300e144-338d-411b-8ea1-5f6778956741,bolts.lat,available,1.99,,50,11,5,name.com,,
 53299963-4a56-4bb3-a5be-049819727937,squealed.lat,available,1.99,,40,1,8,name.com,,
+532fec65-4598-4979-9321-1f03e5fc7fd8,unit.lat,premium,,,76,37,4,,,
 535830e9-511f-4c6e-85be-cf9d48a63f65,recaptured.lat,available,1.99,,48,2,10,name.com,,
 53816a60-0b84-4127-921d-a98ed7b9df81,equals.lat,available,1.99,,62,10,6,name.com,,
 5389e4ad-8953-45fb-b4c7-a48fc1cef52e,permitted.lat,available,1.99,,64,5,9,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a2d7fbe-d37d-4407-a7ca-1a6d5471076d,pondered.lat,available,1.99,,54,3,8,name.com,,
 5ac9dd89-fc24-45d2-b11f-a1b0cbe276e2,plugs.lat,available,1.99,,49,8,5,name.com,,
 5b06d415-62f2-481d-b8a5-4c0a95613675,tomboys.lat,available,1.99,,52,2,7,name.com,,
-5b194961-cc88-4057-8727-2a7c7684cf73,moveforward.lat,available,1.99,,76,9,12,name.com,,

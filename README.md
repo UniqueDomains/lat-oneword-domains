@@ -1,10 +1,10 @@
-# Available .LAT One-Word Domains (11,282)
+# Available .LAT One-Word Domains (11,292)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C282%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C292%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .lat one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,282 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,292 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,282 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,292 domains · **Median ask:** $51.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/lat`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,15 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| Acup.lat         | available | $40.98    | —             | 80             | 5      | 5      | namecheap       |
+| finals.lat       | available | $1.99     | —             | 80             | 7      | 6      | name.com        |
+| barup.lat        | available | $1.99     | —             | 82             | 2      | 6      | name.com        |
+| geton.lat        | available | $1.99     | —             | 82             | 10     | 6      | name.com        |
+| Apples.lat       | available | $40.98    | —             | 90             | 16     | 6      | namecheap       |
+| edamame.lat      | available | $1.99     | —             | 80             | 9      | 7      | name.com        |
+| headout.lat      | available | $1.99     | —             | 82             | 6      | 8      | name.com        |
+| fitinto.lat      | available | $1.99     | —             | 84             | 2      | 8      | name.com        |
+| chaitea.lat      | available | $1.99     | —             | 86             | 3      | 8      | name.com        |
 | justin.lat       | available | $1.99     | —             | 58             | 38     | 7      | name.com        |
 | joy.lat          | resell    | —         | —             | 78             | 42     | 3      | Spaceship, Inc. |
 | nets.lat         | premium   | $2,500    | —             | 54             | 81     | 4      | name.com        |
@@ -75,15 +84,6 @@ print(df.head())
 | comics.lat       | premium   | $2,500    | —             | 68             | 24     | 6      | name.com        |
 | commonground.lat | available | $1.99     | —             | 74             | 28     | 13     | name.com        |
 | profile.lat      | resell    | —         | —             | 76             | 32     | 7      | Go Daddy, LLC   |
-| holidays.lat     | premium   | $2,500    | —             | 78             | 23     | 8      | name.com        |
-| bricks.lat       | available | $1.99     | —             | 56             | 28     | 6      | name.com        |
-| she.lat          | resell    | —         | —             | 86             | 29     | 3      | Go Daddy, LLC   |
-| signs.lat        | premium   | $2,500    | —             | 64             | 22     | 5      | name.com        |
-| IDK.lat          | available | $40.98    | —             | 56             | 27     | 3      | namecheap       |
-| passion.lat      | resell    | —         | —             | 74             | 29     | 7      | Go Daddy, LLC   |
-| hookup.lat       | premium   | $2,500    | —             | 76             | 16     | 7      | name.com        |
-| destination.lat  | available | $1.99     | —             | 90             | 25     | 11     | name.com        |
-| hair.lat         | resell    | —         | —             | 72             | 25     | 4      | Spaceship, Inc. |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,282 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,292 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is entirely one-word .lat domains. The set includes short action words, dictionary terms, and brandable constructions such as Acup.lat, Finals.lat, Forces.lat, Geton.lat, Getup.lat, Popup.lat, Dogsit.lat, and Edamame.lat. For founders, the main question is whether a name is memorable, easy to say, and strong enough to carry a brand without extra explanation. For investors, the focus is tighter: whether the ask leaves room for a sensible spread and whether the word has clear resale appeal inside a niche extension. With a median ask of 51.02, low entry price may be a positive, but extension fit still matters more than volume.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize words that sound natural before the .lat ending
+- Check if the term is clear, memorable, and easy to spell
+- Use the 51.02 median ask as a basic price reality check
+- Avoid terms with obvious trademark or brand collision risk
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAT One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAT One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
