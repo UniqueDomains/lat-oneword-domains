@@ -591,7 +591,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 35d73574-511b-46d9-8451-3f323602c68e,privatesector.lat,available,1.99,,64,2,14,name.com,,
 35e5737e-d4c3-4f8a-a6e9-653b702d8ff8,personallife.lat,available,1.99,,68,3,13,name.com,,
 35eb36f4-0d87-474b-870c-28b5413f2973,lunched.lat,available,1.99,,60,2,7,name.com,,
-35f2b72d-c1ac-48ca-a673-a75f87c39fd4,hair.lat,resell,,,72,25,4,"Spaceship, Inc.",21/02/2026 16:15,21/02/2027 23:59
+35f2b72d-c1ac-48ca-a673-a75f87c39fd4,hair.lat,resell,,,72,24,4,"Spaceship, Inc.",21/02/2026 16:15,21/02/2027 23:59
 3606de91-441c-480a-a726-e91f9c63656e,publictransit.lat,available,1.99,,66,3,14,name.com,,
 360c1ea9-649f-4305-a85e-f329192b1d3e,demonstrating.lat,available,1.99,,48,1,13,name.com,,
 360ffab4-d331-454f-bbca-fc413f0a837d,cloaks.lat,available,1.99,,50,5,6,name.com,,
@@ -675,6 +675,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3d21c1fa-1218-4317-bd9b-be3589a834c8,Ihaveadisability.lat,available,40.98,,50,1,19,namecheap,,
 3d22ce6d-1ce2-41e0-af48-f2171d54a222,keepbooks.lat,available,1.99,,52,2,10,name.com,,
 3d248d65-bfb4-430b-a034-774e23dd5307,does.lat,available,1.99,,60,15,4,name.com,,
+3d28873c-ab7f-49c5-ae8d-37e87fea9e90,notion.lat,premium,,,74,29,6,,,
 3d3458bb-ac0c-489c-9756-11655c472940,organisations.lat,available,1.99,,52,3,13,name.com,,
 3d58dd6a-5032-4255-84ce-cf580e2bfc26,mouthed.lat,available,1.99,,63,1,7,name.com,,
 3d74fcdc-ff28-4965-8b06-5bf4cd879ff7,PopeGregoryI.lat,available,40.98,,28,1,14,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5a2b9b50-5dee-46b9-af97-569c8f69c35f,noodlebar.lat,available,1.99,,62,2,10,name.com,,
 5a2d7fbe-d37d-4407-a7ca-1a6d5471076d,pondered.lat,available,1.99,,54,3,8,name.com,,
 5ac9dd89-fc24-45d2-b11f-a1b0cbe276e2,plugs.lat,available,1.99,,49,8,5,name.com,,
-5b06d415-62f2-481d-b8a5-4c0a95613675,tomboys.lat,available,1.99,,52,2,7,name.com,,
