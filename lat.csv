@@ -353,6 +353,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 20989080-eb24-476a-80e3-a09e6b7f1b24,choirs.lat,available,1.99,,58,5,6,name.com,,
 20a0b4b6-f4e1-4d04-9ecd-61269fddf2e2,shadows.lat,available,1.99,,54,16,7,name.com,,
 20c0ce33-bd07-42f2-817d-d3e36c921169,signs.lat,premium,2500,,64,22,5,name.com,,
+20dfcd93-8ac4-40b1-ab64-95a5c1767c97,invitation.lat,premium,,,82,14,10,,,
 20f6fbbf-b0b4-461a-a1a9-b1187dccd4b3,makefriends.lat,available,1.99,,88,6,12,name.com,,
 2140edcb-25ac-4b12-a267-5c885d45fbb2,seekout.lat,available,1.99,,77,4,8,name.com,,
 2148226b-ba33-422a-969f-f28560ec61d7,neckandneck.lat,available,1.99,,46,1,13,name.com,,
@@ -796,7 +797,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 47a3af03-6614-43f8-aff6-5494700f28f4,deteriorates.lat,available,1.99,,38,1,12,name.com,,
 47d107fe-1cbe-4466-b0d5-3eeb1c1579fe,geton.lat,available,1.99,,82,10,6,name.com,,
 47e4e8dd-aee1-43e9-b559-9d164e9563bc,goplatinum.lat,available,1.99,,76,1,11,name.com,,
-482d591d-e805-4dc7-b85d-50ff1565bc91,joy.lat,resell,,,78,42,3,"Spaceship, Inc.",22/02/2026 17:45,22/02/2027 23:59
+482d591d-e805-4dc7-b85d-50ff1565bc91,joy.lat,resell,,,78,41,3,"Spaceship, Inc.",22/02/2026 17:45,22/02/2027 23:59
 48311faf-b9cf-4c39-b882-08e7d8d3bc68,asoftenasnot.lat,available,1.99,,40,1,15,name.com,,
 48419a15-f27d-433d-bcae-6c68e7e4daa8,seton.lat,premium,2500,,72,9,6,name.com,,
 48a1d2f9-e40f-45e1-b3c0-1402d5b446a2,pairofhands.lat,available,1.99,,64,1,13,name.com,,
@@ -951,6 +952,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 55076aba-5f5d-4119-91dc-c47911286b3e,lactoseintolerance.lat,available,1.99,,56,2,19,name.com,,
 5510ee93-8c8d-4486-85db-6973fa160f7f,rumorhasit.lat,available,1.99,,47,2,12,name.com,,
 553f7240-efe0-429f-a733-bf2945196334,leavenocrumbs.lat,available,1.99,,70,1,15,name.com,,
+55618c12-9560-47d3-a45c-1710392e8a60,maths.lat,premium,,,74,26,5,,,
 55a010fe-1934-4b46-9f0d-0449ebdb6401,proxybattle.lat,available,1.99,,44,1,12,name.com,,
 55b4cca3-3840-403d-843b-3018f3aea2a0,unsettles.lat,available,1.99,,43,1,9,name.com,,
 560f6770-3cda-40af-8605-ecbfa6441be2,fillintheblanks.lat,available,1.99,,64,2,18,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59c28859-1b2e-47db-a9f0-74055d6b94af,Ilostmyhandbag.lat,available,40.98,,50,1,17,namecheap,,
 5a160c04-1646-4f43-8871-285043441460,businessstudies.lat,available,1.99,,70,2,16,name.com,,
 5a2b9b50-5dee-46b9-af97-569c8f69c35f,noodlebar.lat,available,1.99,,62,2,10,name.com,,
-5a2d7fbe-d37d-4407-a7ca-1a6d5471076d,pondered.lat,available,1.99,,54,3,8,name.com,,
-5ac9dd89-fc24-45d2-b11f-a1b0cbe276e2,plugs.lat,available,1.99,,49,8,5,name.com,,
