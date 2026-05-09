@@ -918,6 +918,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 51fb9f42-66cd-44b5-bb5e-3d477f213fb7,givingin.lat,available,1.99,,50,1,9,name.com,,
 520c6745-6001-43a9-864d-b6756a4a27ea,destinations.lat,available,1.99,,72,14,12,name.com,,
 52923db0-da3b-4c95-8180-ec6bc08cba39,negotiations.lat,available,1.99,,56,6,12,name.com,,
+52cbc62c-0971-4a67-8641-799ed28d5991,preview.lat,premium,,,80,27,7,,,
 52ce5f40-5fc4-498b-b893-2b38c9630c44,turnedon.lat,available,1.99,,52,3,9,name.com,,
 52dc4210-6951-4ac3-8e62-c6e7582cb506,trussbeam.lat,available,1.99,,54,1,10,name.com,,
 52de9032-1a73-458e-a7bf-247d726d139e,pads.lat,available,1.99,,68,10,4,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 59b0abca-1475-4707-8a50-94a124690903,produces.lat,available,1.99,,54,5,8,name.com,,
 59c28859-1b2e-47db-a9f0-74055d6b94af,Ilostmyhandbag.lat,available,40.98,,50,1,17,namecheap,,
 5a160c04-1646-4f43-8871-285043441460,businessstudies.lat,available,1.99,,70,2,16,name.com,,
-5a2b9b50-5dee-46b9-af97-569c8f69c35f,noodlebar.lat,available,1.99,,62,2,10,name.com,,
