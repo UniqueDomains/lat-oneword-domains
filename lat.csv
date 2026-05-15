@@ -189,6 +189,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1256b252-9670-4c38-9b22-9da65db52918,IsleofWightCounty.lat,available,40.98,,52,2,20,namecheap,,
 128c5b5c-bf16-4c5b-9c2c-272a21a86440,alternatively.lat,available,1.99,,58,9,13,name.com,,
 12ba5949-a7ca-4bc1-a7e9-50969fd9db8f,stumps.lat,available,1.99,,65,4,6,name.com,,
+12be7ab4-b51d-4f6b-a752-a13ccf251018,leaves.lat,premium,,,60,13,6,,,
 1306f7b7-cf4b-48b5-8e40-5ee7d8545c07,scenes.lat,available,1.99,,54,8,6,name.com,,
 133a3d03-4b20-4ace-8038-6d434087a072,Sundays.lat,available,40.98,,61,17,7,namecheap,,
 13505e85-e6d7-48eb-9299-c02449c9dc96,MiddleAmerica.lat,available,1.99,,54,2,14,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5991cfa9-f4c8-406a-ad1a-a5ee03357963,chickenfriedsteak.lat,available,1.99,,72,1,19,name.com,,
 599387e6-969d-4c51-9d6c-a2dda18c67b1,inyourdreams.lat,available,1.99,,40,3,14,name.com,,
 59b0abca-1475-4707-8a50-94a124690903,produces.lat,available,1.99,,54,5,8,name.com,,
-59c28859-1b2e-47db-a9f0-74055d6b94af,Ilostmyhandbag.lat,available,40.98,,50,1,17,namecheap,,
