@@ -1,10 +1,10 @@
-# Available .LAT One-Word Domains (11,321)
+# Available .LAT One-Word Domains (11,324)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C321%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C324%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .lat one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,321 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,324 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,321 domains · **Median ask:** $51.37 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,324 domains · **Median ask:** $93.49 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/lat`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/lat`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LAT one-word domain c
 
 ### Files
 
-- `lat.csv` — public CSV extract (1,000 rows)
-- `lat.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `lat.csv`, public CSV extract (1,000 rows)
+- `lat.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| Acup.lat         | available | $40.98    | —             | 80             | 5      | 5      | namecheap       |
-| finals.lat       | available | $1.99     | —             | 80             | 7      | 6      | name.com        |
-| barup.lat        | available | $1.99     | —             | 82             | 2      | 6      | name.com        |
-| geton.lat        | available | $1.99     | —             | 82             | 10     | 6      | name.com        |
-| Apples.lat       | available | $40.98    | —             | 90             | 16     | 6      | namecheap       |
-| edamame.lat      | available | $1.99     | —             | 80             | 9      | 7      | name.com        |
-| preview.lat      | premium   | —         | —             | 80             | 27     | 7      | —               |
-| headout.lat      | available | $1.99     | —             | 82             | 6      | 8      | name.com        |
-| justin.lat       | available | $1.99     | —             | 58             | 38     | 7      | name.com        |
-| joy.lat          | resell    | —         | —             | 78             | 41     | 3      | Spaceship, Inc. |
-| nets.lat         | premium   | $2,500    | —             | 54             | 81     | 4      | name.com        |
-| etc.lat          | available | $1.99     | —             | 58             | 34     | 3      | name.com        |
-| Tools.lat        | resell    | —         | —             | 56             | 40     | 5      | Spaceship, Inc. |
-| travelers.lat    | premium   | $2,500    | —             | 58             | 61     | 9      | name.com        |
-| heroes.lat       | available | $1.99     | —             | 68             | 29     | 6      | name.com        |
-| urban.lat        | resell    | —         | —             | 68             | 36     | 5      | Spaceship, Inc. |
-| holidays.lat     | premium   | $2,500    | —             | 78             | 23     | 8      | name.com        |
-| commonground.lat | available | $1.99     | —             | 74             | 28     | 13     | name.com        |
-| profile.lat      | resell    | —         | —             | 76             | 32     | 7      | Go Daddy, LLC   |
-| comics.lat       | premium   | $2,500    | —             | 68             | 23     | 6      | name.com        |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
+| coy.lat       | available | $1.99     | $41.99        | medium         | low    | 3      | name.com        |
+| strategic.lat | resell    | $1.99     | —             | high           | low    | 9      | Go Daddy, LLC   |
+| abc.lat       | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap       |
+| flu.lat       | available | $1.99     | $32.49        | medium         | low    | 3      | namesilo        |
+| act.lat       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
+| ana.lat       | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
+| gag.lat       | available | $1.99     | $32.49        | high           | low    | 3      | namesilo        |
+| eye.lat       | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc. |
+| DIY.lat       | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
+| les.lat       | available | $1.99     | —             | medium         | low    | 3      | name.com        |
+| sun.lat       | resell    | —         | —             | high           | medium | 3      | Namecheap       |
+| you.lat       | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
+| wiz.lat       | available | $1.99     | $41.99        | high           | low    | 3      | name.com        |
+| try.lat       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
+| avon.lat      | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
+| xxi.lat       | available | $1.99     | $41.99        | medium         | low    | 3      | name.com        |
+| arts.lat      | resell    | —         | —             | high           | low    | 4      | Porkbun, LLC    |
+| bali.lat      | premium   | $2,500    | —             | medium         | medium | 4      | name.com        |
+| yur.lat       | available | $1.99     | —             | high           | low    | 3      | name.com        |
+| give.lat      | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,321 live domains                        |
+| 1,000-row public sample | 11,324 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely one-word .lat domains. The set includes short action words, dictionary terms, and brandable constructions such as Acup.lat, Finals.lat, Forces.lat, Geton.lat, Getup.lat, Popup.lat, Dogsit.lat, and Edamame.lat. For founders, the main question is whether a name is memorable, easy to say, and strong enough to carry a brand without extra explanation. For investors, the focus is tighter: whether the ask leaves room for a sensible spread and whether the word has clear resale appeal inside a niche extension. With a median ask of 51.02, low entry price may be a positive, but extension fit still matters more than volume.
+This list contains 11,324 one-word .LAT domain names covering everyday terms, compound words, and short brandable strings. The .LAT extension pairs a compact footprint with broad naming flexibility, making it suitable across industries. With a median asking price near $93, many names in this set are within reach for early-stage founders, while investors can scan the full range for TLD coverage and pricing patterns. Updated daily, this selection reflects current availability and ask prices across the .LAT namespace.
 
-- Prioritize words that sound natural before the .lat ending
-- Check if the term is clear, memorable, and easy to spell
-- Use the 51.02 median ask as a basic price reality check
-- Avoid terms with obvious trademark or brand collision risk
+- 11,324 available one-word .LAT domains in this selection
+- Median asking price near $93 across listed names
+- Mix of short, brandable, and compound-word .LAT names
+- Updated daily to reflect current .LAT pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAT One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
