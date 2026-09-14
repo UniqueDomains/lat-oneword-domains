@@ -129,7 +129,7 @@ f7e5619d-213a-4c26-86a6-cceb5b1ba540,farthest.lat,available,1.99,32.49,medium,lo
 8841a415-f5ab-4d68-824f-6014a47475b4,burn.lat,available,,,high,low,4,,,
 cba06a70-7cc9-4cd2-9532-f2e20af54d82,retrieve.lat,available,,,high,low,8,,,
 ce169525-25ce-4ce5-af32-3c5177de97da,taxshift.lat,available,1.99,,medium,low,9,name.com,,
-530f3481-10e2-4b08-aeb1-178a2f0672d7,oncemore.lat,available,1.99,,low,low,9,name.com,,
+530f3481-10e2-4b08-aeb1-178a2f0672d7,oncemore.lat,available,1.8,40.98,low,low,9,namecheap,,
 800ba7c8-7a62-4490-8462-bc0d2cb05768,other.lat,available,1.99,,medium,low,5,name.com,,
 18dcd7fd-2ba1-49c0-8375-362f53706127,weed.lat,resell,,,medium,low,4,Dynadot LLC,03/07/2025 11:36,03/07/2026 23:59
 ffb69aff-8d25-4f12-9f22-3c60a373546d,sheer.lat,available,1.99,,high,low,5,name.com,,
@@ -384,7 +384,7 @@ ef154dfa-8225-481f-bf9d-8f5bc0cb534f,secluded.lat,available,1.99,,medium,low,8,n
 c9376352-e7b2-4691-8ecb-dda2f08e3c80,thought.lat,available,1.99,,high,low,7,name.com,,
 ba3fedd9-7db7-47a5-b871-7a4b6b527e96,measurement.lat,available,1.99,,medium,low,11,name.com,,
 bb78bb0e-49c4-4a79-bcb0-a0d6189a94b9,yesandno.lat,available,1.99,,low,low,10,name.com,,
-fa14d939-ec6b-4ab5-ac5d-57759d32d1ad,buffet.lat,available,1.99,32.49,high,low,6,namesilo,,
+fa14d939-ec6b-4ab5-ac5d-57759d32d1ad,buffet.lat,available,1.8,40.98,medium,low,6,namecheap,,
 27316681-abbf-4ad4-a522-3efceb937be1,cock.lat,available,,,medium,low,4,,,
 62237c06-123c-4d1d-a768-78c51ea5b7c5,likewise.lat,available,1.99,41.99,medium,low,8,name.com,,
 87948745-5a71-4e8f-873b-f36a086badde,gear.lat,available,1.99,32.49,high,low,4,namesilo,,
