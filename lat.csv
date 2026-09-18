@@ -1,5 +1,5 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
-9f9066b9-b092-4510-a8e0-e979b7979a60,american.lat,premium,2500,,high,low,8,name.com,,,
+9f9066b9-b092-4510-a8e0-e979b7979a60,american.lat,premium,2660,2660,high,low,8,namesilo,,,17/09/2026 10:23
 42be1d88-2fa9-4620-b646-f7c3d683e4d7,brief.lat,available,1.99,41.99,high,low,5,name.com,,,
 50f44787-3d01-4b2a-833e-20088f84816e,intercultural.lat,available,1.99,,high,low,13,name.com,,,
 8cde677c-87a0-41f0-9609-8fe320697c36,asthecrowflies.lat,available,1.99,,medium,low,17,name.com,,,
@@ -131,7 +131,6 @@ cba06a70-7cc9-4cd2-9532-f2e20af54d82,retrieve.lat,available,,,high,low,8,,,,
 ce169525-25ce-4ce5-af32-3c5177de97da,taxshift.lat,available,1.99,,medium,low,9,name.com,,,
 530f3481-10e2-4b08-aeb1-178a2f0672d7,oncemore.lat,available,1.8,40.98,low,low,9,namecheap,,,13/09/2026 18:09
 800ba7c8-7a62-4490-8462-bc0d2cb05768,other.lat,available,1.99,,medium,low,5,name.com,,,
-18dcd7fd-2ba1-49c0-8375-362f53706127,weed.lat,resell,,,medium,low,4,Dynadot LLC,03/07/2025 11:36,03/07/2026 23:59,
 ffb69aff-8d25-4f12-9f22-3c60a373546d,sheer.lat,available,1.99,,high,low,5,name.com,,,
 5fd91ee0-b03d-42ba-96cb-b0b62bf21839,clv.lat,available,,,medium,low,3,,,,
 b2d190bc-3315-4c05-bb0a-4657e800e1b6,generalpublic.lat,available,1.99,32.49,high,low,14,namesilo,,,
@@ -999,3 +998,4 @@ a5394fd2-f6be-460f-bfbe-487e73384587,tossacoin.lat,available,1.99,,low,low,11,na
 c75c0e27-de62-47eb-9b4e-44f42863a9ce,justification.lat,available,1.99,,medium,low,13,name.com,,,
 f3470484-c9b4-45b3-a218-97f44cd72734,bethere.lat,available,1.99,32.49,medium,low,8,namesilo,,,
 fc82217f-4809-4eb4-9a63-fd9e65ff5c78,passable.lat,available,1.99,,medium,low,8,name.com,,,
+1c2e826e-6ff7-499c-830d-5ea6b669e6c6,hotpepper.lat,available,1.99,,high,low,10,name.com,,,
