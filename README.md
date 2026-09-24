@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .lat one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,141 domains · **Median ask:** $43.55 · **High-demand under $2,500:** 13
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/lat`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| coy.lat       | available | $1.99     | $41.99        | medium         | low    | 3      | name.com        |
+| flu.lat       | available | $1.99     | $32.49        | medium         | low    | 3      | namesilo        |
 | wiz.lat       | resell    | $1.99     | $41.99        | medium         | low    | 3      | name.com        |
 | abc.lat       | premium   | $2,600    | $2,600        | medium         | medium | 3      | namecheap       |
-| flu.lat       | available | $1.99     | $32.49        | medium         | low    | 3      | namesilo        |
+| gag.lat       | available | $1.99     | $32.49        | high           | low    | 3      | namesilo        |
 | strategic.lat | resell    | $1.99     | —             | high           | low    | 9      | Go Daddy, LLC   |
 | ana.lat       | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
-| gag.lat       | available | $1.99     | $32.49        | high           | low    | 3      | namesilo        |
+| les.lat       | available | $1.99     | —             | medium         | low    | 3      | name.com        |
 | act.lat       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
 | diy.lat       | premium   | $812.50   | —             | high           | low    | 3      | name.com        |
-| les.lat       | available | $1.99     | —             | medium         | low    | 3      | name.com        |
-| eye.lat       | resell    | —         | —             | medium         | low    | 3      | Spaceship, Inc. |
-| you.lat       | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
 | xxi.lat       | available | $1.99     | $32.49        | low            | low    | 3      | namesilo        |
 | sun.lat       | resell    | —         | —             | high           | medium | 3      | Namecheap       |
-| avon.lat      | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
+| you.lat       | premium   | $812.50   | —             | high           | medium | 3      | name.com        |
 | yur.lat       | available | $1.99     | —             | high           | low    | 3      | name.com        |
 | try.lat       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc. |
-| bali.lat      | premium   | $2,500    | —             | medium         | medium | 4      | name.com        |
+| avon.lat      | premium   | $2,500    | —             | high           | low    | 4      | name.com        |
 | ahuh.lat      | available | $1.99     | $32.49        | high           | low    | 4      | namesilo        |
 | arts.lat      | resell    | —         | —             | medium         | low    | 4      | Porkbun LLC     |
+| bali.lat      | premium   | $2,500    | —             | medium         | medium | 4      | name.com        |
+| arum.lat      | available | $1.80     | $40.98        | low            | low    | 4      | namecheap       |
+| give.lat      | resell    | —         | —             | high           | low    | 4      | Dynadot LLC     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAT One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAT One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
