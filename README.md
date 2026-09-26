@@ -1,10 +1,10 @@
-# Available .LAT One-Word Domains (31,046)
+# Available .LAT One-Word Domains (21,038)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C046%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-21%2C038%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .lat one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **31,046 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **21,038 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 31,046 domains · **Median ask:** $43.33 · **High-demand under $2,500:** 12
+**Public extract:** 1,000 rows · **Live catalog:** 21,038 domains · **Median ask:** $75.87 · **High-demand under $2,500:** 20
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/tld/lat`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| axe.lat       | available | $1.99     | $32.49        | high           | low    | 3      | namesilo         |
-| yes.lat       | resell    | $812.50   | —             | high           | medium | 3      | name.com         |
-| abc.lat       | premium   | $2,600    | $2,600        | high           | medium | 3      | namecheap        |
-| azo.lat       | available | $1.80     | $40.98        | high           | low    | 3      | namecheap        |
-| note.lat      | resell    | $6,277.85 | —             | high           | low    | 4      | Porkbun, LLC     |
-| ana.lat       | premium   | $812.50   | —             | high           | low    | 3      | name.com         |
-| flu.lat       | available | $1.99     | $32.49        | high           | low    | 3      | namesilo         |
-| economy.lat   | resell    | $1.99     | —             | high           | low    | 7      | GoDaddy.com, LLC |
-| diy.lat       | premium   | $812.50   | —             | high           | low    | 3      | name.com         |
-| gag.lat       | available | $1.99     | $32.49        | high           | low    | 3      | namesilo         |
-| strategic.lat | resell    | $1.99     | —             | high           | low    | 9      | Go Daddy, LLC    |
-| log.lat       | premium   | $812.50   | —             | high           | low    | 3      | name.com         |
-| ilx.lat       | available | $1.80     | $40.98        | medium         | low    | 3      | namecheap        |
-| act.lat       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
-| you.lat       | premium   | $812.50   | —             | high           | medium | 3      | name.com         |
-| les.lat       | available | $1.99     | —             | high           | low    | 3      | name.com         |
-| net.lat       | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.  |
-| avon.lat      | premium   | $2,500    | —             | high           | low    | 4      | name.com         |
-| yur.lat       | available | $1.99     | —             | high           | low    | 3      | name.com         |
-| sun.lat       | resell    | —         | —             | high           | medium | 3      | Namecheap        |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar            |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| aft.lat   | available | $1.80     | $40.98        | high           | low    | 3      | namecheap            |
+| way.lat   | resell    | —         | —             | high           | low    | 3      | Dynadot LLC          |
+| ally.lat  | premium   | $2,500    | —             | high           | high   | 4      | name.com             |
+| auc.lat   | available | $1.99     | $32.49        | high           | low    | 3      | namesilo             |
+| aide.lat  | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.      |
+| boss.lat  | premium   | $2,660    | $2,660        | high           | high   | 4      | namesilo             |
+| bph.lat   | available | $1.99     | $32.49        | high           | low    | 3      | namesilo             |
+| debt.lat  | resell    | —         | —             | high           | low    | 4      | Go Daddy, LLC        |
+| flor.lat  | premium   | $812.50   | —             | high           | low    | 4      | name.com             |
+| flu.lat   | available | $1.99     | $32.49        | high           | low    | 3      | namesilo             |
+| from.lat  | resell    | —         | —             | high           | low    | 4      | Porkbun LLC          |
+| gran.lat  | premium   | $812.50   | —             | high           | low    | 4      | name.com             |
+| gur.lat   | available | $1.80     | $40.98        | medium         | low    | 3      | namecheap            |
+| faith.lat | resell    | —         | —             | high           | low    | 5      | Dynadot LLC          |
+| lucy.lat  | premium   | $2,500    | —             | high           | low    | 4      | name.com             |
+| khz.lat   | available | $1.99     | $32.49        | high           | low    | 3      | namesilo             |
+| space.lat | resell    | —         | —             | high           | medium | 5      | Dynadot Inc          |
+| rule.lat  | premium   | $2,600    | $2,600        | high           | low    | 4      | namecheap            |
+| nyt.lat   | available | $1.99     | $32.49        | high           | low    | 3      | namesilo             |
+| video.lat | resell    | —         | —             | high           | medium | 5      | Atom.com Domains LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 31,046 live domains                        |
+| 1,000-row public sample | 21,038 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 12 high-demand names under $2,500          |
+| Basic exported fields   | 20 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LAT One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LAT One-Word Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
